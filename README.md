@@ -12,3 +12,8 @@ DATE            TIME    STORE-LOCATION                  ITEM                    
 2012-01-01      09:01   Riverside                       Consumer Electronics            252.88    Cash
 
 
+| DATE  	| TIME  	| STORE-LOCATION  	|  ITEM 	|  COST 	| PAYMENT-METHOD	|
+|---	|---	|---	|---	|---	|--:	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
