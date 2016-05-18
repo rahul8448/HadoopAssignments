@@ -1,4 +1,4 @@
-# HadoopAssignments
+# Assignment1
 This assignment deals with reading an input file names purchases.txt. This file is of the below format
 
 DATE            TIME    STORE-LOCATION                  ITEM                            COST    PAYMENT-METHOD             
