@@ -1,0 +1,123 @@
+SalesTotal: 	Baby 	57491808.44
+SalesTotal: 	Books 	57450757.91
+SalesTotal: 	CDs 	57410753.04
+SalesTotal: 	Cameras 	57299046.64
+SalesTotal: 	Children's Clothing 	57624820.94
+SalesTotal: 	Computers 	57315406.32
+SalesTotal: 	Consumer Electronics 	57452374.13
+SalesTotal: 	Crafts 	57418154.5
+SalesTotal: 	DVDs 	57649212.14
+SalesTotal: 	Garden 	57539833.11
+SalesTotal: 	Health and Beauty 	57481589.56
+SalesTotal: 	Men's Clothing 	57621279.04
+SalesTotal: 	Music 	57495489.7
+SalesTotal: 	Pet Supplies 	57197250.24
+SalesTotal: 	Sporting Goods 	57599085.89
+SalesTotal: 	Toys 	57463477.11
+SalesTotal: 	Video Games 	57513165.58
+SalesTotal: 	Women's Clothing 	57434448.97
+Arlington 499.95	
+Newark 499.99	
+Toledo 499.98	
+San Francisco 499.97	
+Henderson 499.99	
+Tulsa 499.96	
+Sacramento 499.96	
+Fremont 499.99	
+Scottsdale 499.98	
+El Paso 499.98	
+Fort Wayne 499.96	
+Atlanta 499.96	
+Tampa 499.99	
+Norfolk 499.97	
+Honolulu 499.99	
+Miami 499.98	
+Lexington 499.97	
+Virginia Beach 499.98	
+Charlotte 499.98	
+Cincinnati 499.98	
+Fresno 499.99	
+Washington 499.98	
+Fort Worth 499.98	
+Minneapolis 499.97	
+Hialeah 499.99	
+Long Beach 499.99	
+Durham 499.96	
+Chula Vista 499.99	
+Rochester 499.99	
+Denver 499.97	
+Gilbert 499.99	
+Laredo 499.96	
+Pittsburgh 499.99	
+Aurora 499.97	
+San Diego 499.98	
+Albuquerque 499.98	
+Boise 499.98	
+New York 499.99	
+Los Angeles 499.99	
+San Antonio 499.98	
+Colorado Springs 499.99	
+Spokane 499.99	
+San Jose 499.99	
+Tucson 499.98	
+Buffalo 499.99	
+Madison 499.97	
+Seattle 499.99	
+Boston 499.99	
+Las Vegas 499.98	
+Dallas 499.99	
+St. Petersburg 499.95	
+Richmond 499.96	
+Louisville 499.98	
+Winston–Salem 499.98	
+Santa Ana 499.97	
+Riverside 499.98	
+Columbus 499.98	
+Indianapolis 499.98	
+Baton Rouge 499.98	
+Mesa 499.99	
+Memphis 499.97	
+Lincoln 499.99	
+Saint Paul 499.98	
+Orlando 499.99	
+Detroit 499.99	
+Anaheim 499.98	
+Austin 499.97	
+Greensboro 499.99	
+Stockton 499.98	
+New Orleans 499.99	
+Birmingham 499.99	
+Cleveland 499.98	
+Oklahoma City 499.99	
+Chicago 499.99	
+Lubbock 499.98	
+Philadelphia 499.98	
+Chandler 499.98	
+Garland 499.99	
+Nashville 499.97	
+Irving 499.99	
+Irvine 499.99	
+Plano 499.99	
+Jacksonville 499.99	
+North Las Vegas 499.98	
+Bakersfield 499.97	
+Omaha 499.99	
+Jersey City 499.99	
+Anchorage 499.99	
+Chesapeake 499.98	
+Wichita 499.97	
+Kansas City 499.97	
+Raleigh 499.99	
+Glendale 499.98	
+San Bernardino 499.98	
+Portland 499.96	
+Baltimore 499.99	
+St. Louis 499.99	
+Houston 499.99	
+Phoenix 499.99	
+Reno 499.99	
+Milwaukee 499.97	
+Corpus Christi 499.96	
+Oakland 499.99	
+TotalSales:1034457953.26	
+TotalNumberOfSales:4138476	
