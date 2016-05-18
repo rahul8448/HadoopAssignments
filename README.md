@@ -13,7 +13,7 @@ The mapper.py and reducer.py are the hadoop mapper and reducer code to parse the
 2. The monetary value for the highest individual sale for each separate store.
 3. The total sales value across all the stores, and the total number of sales. Assuming there is only one reducer.
 
-The output.txt contains the result of the map-reduce job, which calculates the above three information from the purchases.txt input file.
+The output.txt contains the result of the map-reduce job on purchases.txt, from which the above three information can be determined.
 
 Due to the size of the purchases.txt file, it could not be commited to the branch. The complete file can be downloaded from the below link:
 https://dl.dropboxusercontent.com/u/25077628/purchases.txt
