@@ -1,7 +1,6 @@
 .idea
-/data/access_log.gz
+/data/access_log
 /data/testfile
 /data/purchases.txt
-/data/*
 
 
