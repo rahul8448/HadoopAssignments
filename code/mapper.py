@@ -1,16 +1,26 @@
 #!/usr/bin/python
 
-# Format of each line is:
-# date\ttime\tstore name\titem description\tcost\tmethod of payment
-#
-# We want elements 2 (store name) and 4 (cost)
+
 # We need to write them out to standard output, separated by a tab
-
 import sys
-
+import re
+data=[]
+end=0;
+fileName=None
 for line in sys.stdin:
-    data = line.strip().split("\t")
-    if len(data) == 6:
-        date, time, store, item, cost, payment = data
-        print "{0}\t{1}\t{2}".format(item,store,cost)
+    tmp= line.strip().replace('[','').replace("'",'',2).replace(']','').split()
+    if len(tmp)==10:
+       ip,identity,username,time,x,get,request,http,status,size = tmp
+       requestStr=str(request)
+       if  requestStr.find('http://www.the-associates.co.uk') != -1:
+           end=len('http://www.the-associates.co.uk')
+           fileName=requestStr[end:]
+       else:
+         fileName = requestStr[requestStr.index('/'):]
+
+       print "{0}\t{1}".format(ip,fileName)
+
+
+
+
 

@@ -2,4 +2,6 @@
 /data/access_log.gz
 /data/testfile
 /data/purchases.txt
+/data/*
+
 
