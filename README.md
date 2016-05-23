@@ -11,6 +11,8 @@ The mapper-reducer answers the following questions:
 The output.txt has the result of the mapper-reducer job.
 
 Due to its size, the input log file was not commited to github. The access log can be download from the following locations:
+https://dl.dropboxusercontent.com/u/25077628/access_log.zip
+
 
 
 
